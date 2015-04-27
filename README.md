@@ -1,26 +1,26 @@
 # Mobile-First-Website-with-AngularJS-Sass-RequireJS-and-Cordova
 Example: Mobile First Website with AngularJS, Sass, RequireJS and Cordova
 
-Installation:
 
-$ cd build/
+##Installation:
 
-$ bower update
+$ cd build/<br />
+$ bower update<br />
 $ npm install
 
 
-Development:
+##Development:
 
-1)
-$ cd client/touch/assets/
+1)<br />
+$ cd client/touch/assets/<br />
 $ compass watch
 
-2)
-optional:
-2$ cd client/touch/
+2)<br />
+**optional:**<br />
+2$ cd client/touch/<br />
 2$ http-server
 
 
-Build:
-$ cd build/
+##Build:
+$ cd build/<br />
 $ grunt build
