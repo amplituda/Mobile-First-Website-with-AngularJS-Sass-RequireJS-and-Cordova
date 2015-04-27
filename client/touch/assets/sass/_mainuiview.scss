@@ -1,0 +1,16 @@
+.main-ui-view{
+
+  position: absolute;
+  @include inline-block;
+
+  top: 68px;
+  left: 0px;
+  bottom: 60px;
+
+  width: 100%;
+
+  overflow: hidden;
+  overflow-y: scroll; /* has to be scroll, not auto */
+  -webkit-overflow-scrolling: touch;
+
+}
